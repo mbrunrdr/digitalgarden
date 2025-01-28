@@ -3,3 +3,5 @@
 ---
 
 
+Este es el inicio del sitio
+[[0. Índice/Manual BIM RDR - índice de contenidos\|Manual BIM RDR - índice de contenidos]]
