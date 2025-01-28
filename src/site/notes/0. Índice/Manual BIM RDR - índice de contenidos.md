@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-indice/manual-bim-rdr-indice-de-contenidos/"}
+{"dg-publish":true,"permalink":"/0-indice/manual-bim-rdr-indice-de-contenidos/","tags":["gardenEntry"],"created":"2024-10-31T09:36:30.332-03:00","updated":"2025-01-28T19:19:59.463-03:00"}
 ---
 
 # [[1. Introducción/1. Introducción\|1. Introducción]]
